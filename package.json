@@ -1,0 +1,53 @@
+{
+  "name": "datascience-verstehen",
+  "version": "1.0.0",
+  "description": "Datascience Informationen",
+  "main": "index.js",
+  "repository": "git+https://github.com/crischinaldo/datascience-verstehen.ui.git",
+  "keywords": [
+    "react",
+    "reactjs",
+  ],
+  "license": "Christoph Thomas",
+  "dependencies": {
+    "@react-keycloak/web": "^2.1.3",
+    "chart.js": "^2.7.3",
+    "classnames": "^2.2.6",
+    "keycloak-js": "^11.0.0",
+    "moment": "^2.24.0",
+    "node-sass": "^4.14.1",
+    "nouislider": "^13.1.1",
+    "perfect-scrollbar": "^1.4.0",
+    "react": "^16.12.0",
+    "react-bootstrap-switch": "^15.5.3",
+    "react-chartjs-2": "^2.7.4",
+    "react-datetime": "^2.16.3",
+    "react-dom": "^16.8.3",
+    "react-icons-kit": "^1.3.1",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "^3.3.0",
+    "reactstrap": "7.1.0",
+    "yarn": "^1.21.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "babel-loader": "^8.0.6",
+    "webpack-bundle-analyzer": "^3.6.0"
+  },
+  "author": "Christoph Thomas"
+}

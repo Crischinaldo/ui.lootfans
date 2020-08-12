@@ -1,0 +1,13 @@
+{
+  "realm": "datascience-verstehen",
+  "auth-server-url": "http://127.0.0.1:8081/auth/",
+  "ssl-required": "external",
+  "resource": "spring-api",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "dae1d0a1-78c9-4d9b-915a-1f64b1be08dc"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}
